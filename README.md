@@ -10,6 +10,7 @@ A simple template to start a common typescript project.
 - test -> [Jest](https://jestjs.io/)
 - continuous integration -> [Travis CI](https://travis-ci.org/)
 - linter -> [ESLint](https://eslint.org/)
+- coverage -> [Codecov](https://codecov.io/)
 
 ## How to start
 
