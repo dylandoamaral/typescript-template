@@ -4,7 +4,7 @@
   "description": "A simple template to start a common typescript project.",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
+    "test": "jest --config jest.config.json",
     "coverage": "codecov"
   },
   "repository": {
