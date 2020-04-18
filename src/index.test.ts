@@ -1,5 +1,5 @@
-import acp from "./index";
+import hello from "./index";
 
-test("acp", () => {
-    expect(acp()).toBe("add-commit-push incoming");
+test("hello", () => {
+    expect(hello()).toBe("hello world");
 });

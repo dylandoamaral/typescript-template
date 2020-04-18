@@ -1,5 +1,5 @@
-const acp = () => {
-    return "add-commit-push incoming";
+const hello = () => {
+    return "hello world";
 };
 
-export default acp;
+export default hello;
